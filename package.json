@@ -1,0 +1,26 @@
+{
+  "name": "uploadimages",
+  "version": "1.0.1",
+  "description": "node app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phamhoangviet261/uploadimages.git"
+  },
+  "keywords": [
+    "node",
+    "nodejs",
+    "upload",
+    "images"
+  ],
+  "author": "shiro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phamhoangviet261/uploadimages/issues"
+  },
+  "homepage": "https://github.com/phamhoangviet261/uploadimages#readme"
+}
